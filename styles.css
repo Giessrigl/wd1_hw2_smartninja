@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: white;}#
+
+#h2 {
+    color: red;}
+
+#p02 {
+    color: green;}
+
+div {
+    position: absolute;}
+
+footer {
+    position:absolute;
+    bottom: 5px;
+    left: 50px;}
+
+div.d01 {
+    top: 5px;
+    left: 550px;}
+
+div.d02 {
+    top: 100px;
+    left: 50px;}
+
+div.d03 {
+    top: 300px;
+    left: 600px;}
+
+div.d04 {
+    height: 550px;
+    width: 300px;
+    top: 100px;
+    right: 5px;
+    padding-color: grey;}
+
+img.friends {
+    height: 45px;
+    width: 50px;}
+
+img.profil {
+    height: 270px;
+    width: 220px;}
